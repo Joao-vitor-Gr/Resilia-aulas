@@ -1,0 +1,55 @@
+body{
+  background-color: aqua;
+}
+
+
+header, main {
+    text-align: center;
+    margin-top: 70px;
+}
+
+
+
+.lugares { display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+}
+
+.img{
+    border-radius: 90px;
+    height: 150px;
+    width: 150px;
+}
+
+.text{
+    background-blend-mode:normal;
+    background-color: #ffffff54;
+    border-radius: 500px;
+    padding: 1px
+}
+
+
+
+#card1{
+    
+    background-color: #ffffff94;
+    border-radius: 30px;
+    padding: 40px 10px 50px 10px;
+}
+
+.força{
+background: rgba(0, 0, 255, 0.835);
+}
+
+.fraquezas {
+    background:red;   
+}
+
+
+.oportunidade {
+    background: pink;
+}
+
+.ameaças {
+    background: green;
+}

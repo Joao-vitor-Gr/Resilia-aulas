@@ -1,0 +1,97 @@
+body {
+    text-align: center;
+    background: #000000;
+    margin: 0;
+    color: #cccccc;
+    font: x-small "Trebuchet MS", Trebuchet, Verdana, Sans-serif;
+    font-size/* */: /**/small;
+    font-size: /**/small;
+  
+    }
+
+
+body {
+    overflow-wrap: break-word;
+    word-break: break-word;
+    word-wrap: break-word;
+}
+
+#header-wrapper {
+
+    width: 660px;
+    margin: 0 auto 10px;
+    border: 1px solid #333333;
+}
+
+header {
+
+        margin: 5px;
+        border: 1px solid #333333;
+        text-align: center;
+        color: #cccccc;
+    }
+
+
+
+#main-wrapper {
+
+    width: 550px;
+    float: center;
+    word-wrap: break-word;
+    overflow: hidden;
+    color: ivory;
+    margin:auto;
+
+    
+}
+
+.date-header {
+    margin: 1.5em 0 .5em;
+}
+h2 {
+    margin: 1.5em 0 .75em;
+    font: normal bold 78% 'Trebuchet MS',Trebuchet,Arial,Verdana,Sans-serif;
+    line-height: 1.4em;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    color: #777777;
+}
+ h3 {
+
+    margin: .25em 0 0;
+    padding: 0 0 4px;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 1.4em;
+    color: #aadd99;
+}
+
+#date-post {
+  
+    margin: 0 0 .75em;
+    line-height: 1.6em;
+    
+}
+.post-footer {
+   
+    margin: .75em 0;
+    color: #777777;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    font: normal normal 78% 'Trebuchet MS', Trebuchet, Arial, Verdana, Sans-serif;
+    line-height: 1.4em;
+}
+
+footer {
+    text-align: center;
+}
+
+#img { 
+    background: center;
+    background-color: #858585;
+    border-radius: 40px;
+    display: flex;
+    padding-top: 50px;
+    padding-left: 125px;
+    
+}
